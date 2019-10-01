@@ -26,7 +26,7 @@ una vista previa aquí abajo.
 #include <MFRC522.h> //https://github.com/miguelbalboa/rfid
 
 MFRC522 mrfInstanceT(10, 9);
-uint8_t myTagIDT[4] = {0xCA, 0x04, 0x1F, 0xCE};
+uint8_t myTagIDT[4] = {0xCA, 0x04, 0x1F, 0xCE}; //Place your ID here
 String resultSerialT;
 
 void setup() {
