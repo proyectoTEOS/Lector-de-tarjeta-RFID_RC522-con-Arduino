@@ -3,7 +3,7 @@ En esta ocasión trabajaremos con el lector de tarjetas RFID MIFARE RC522 utiliz
 
 ### Requisitos
 - Tener el IDE de [Arduino](https://www.arduino.cc/en/Main/Software) (o el de tu preferencia) con la versión más actual
-- Contar con las librería [MFRC522](https://github.com/miguelbalboa/rfid)
+- Contar con la librería [MFRC522](https://github.com/miguelbalboa/rfid)
 - Tener el material para hacer el proyecto
 
 ### Código
